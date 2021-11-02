@@ -5,8 +5,13 @@ Se voce tiver mais duvidas em questoes sobre Fisica, Matematica e Programacao, v
 
 # INFORMACOES #
 Processo Seletivo Simplificado N 51/2021
-Secretaria da Educacao e do Esporte - SEED/PR
-PARANA - GOVERNO DO ESTADO
-Area de Conhecimento: Matematica
-Tipo 1: Branca
-Organizadora: Instituto ConsulPlan
+
+Secretaria da Educacao e do Esporte - SEED/PR<br>
+
+PARANA - GOVERNO DO ESTADO<br>
+
+Area de Conhecimento: Matematica <br>
+
+Tipo 1: Branca <br>
+
+Organizadora: Instituto ConsulPlan <br>
